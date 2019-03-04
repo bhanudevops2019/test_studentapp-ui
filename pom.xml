@@ -35,11 +35,11 @@
   <distributionManagement>
   <repository>
     <id>packagecloud-raghudevops34</id>
-    <url>packagecloud+https://packagecloud.io/test-user/myrepo</url>
+    <url>http://10.0.0.228:8081/repository/Studentapp-release/</url>
   </repository>
   <snapshotRepository>
     <id>packagecloud-raghudevops34</id>
-    <url>packagecloud+https://packagecloud.io/test-user/myrepo</url>
+    <url>http://10.0.0.228:8081/repository/Studentapp-snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
   <dependencies>
